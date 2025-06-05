@@ -1,0 +1,18 @@
+# Python 관련
+venv/
+__pycache__/
+*.pyc
+
+# VSCode 설정
+.vscode/
+*.code-workspace
+
+# Output, Log, Cache
+output/
+*.log
+
+# PDF (필요시)
+# *.pdf
+
+# 서비스 계정 키 파일
+service-account.json
